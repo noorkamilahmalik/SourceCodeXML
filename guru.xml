@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xml>
+    <dataguru id="1">
+        <nama>Noor</nama>
+        <umur>27</umur>
+        <jobdesk>Guru Mapel Fisika</jobdesk>
+        <alamat>Pagerageung</alamat>
+    </dataguru>
+    <dataguru id="2">
+        <nama>Kamilah</nama>
+        <umur>35</umur>
+        <jobdesk>Guru Mapel Sejarah</jobdesk>
+        <alamat>Rajapolah</alamat>
+    </dataguru>
+    <dataguru id="3">
+        <nama>Malik</nama>
+        <umur>42</umur>
+        <jobdesk>Guru Mapel Biologi</jobdesk>
+        <alamat>Puteran</alamat>
+    </dataguru>
+    <dataguru id="4">
+        <nama>Hudzaifah</nama>
+        <umur>33</umur>
+        <jobdesk>Guru Mapel Bahasa</jobdesk>
+        <alamat>Cirebon</alamat>
+    </dataguru>
+    <dataguru id="5"> 
+        <nama>Natadiria</nama>
+        <umur>26</umur>
+        <jobdesk>Guru Mapel Matematika</jobdesk>
+        <alamat>Bandung</alamat>
+    </dataguru>
+</xml>
